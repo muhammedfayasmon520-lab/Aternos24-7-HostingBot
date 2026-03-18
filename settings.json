@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I AM BHOODHAM",
+        "I like to play SERVER"
       ]
     },
     "chat-log": true,
@@ -70,7 +70,7 @@
   },
   "beds": {
     "pick-up-day":true ,
-    "place-night": false
+    "place-night":true 
   },
   "discord": {
     "enabled": false,
